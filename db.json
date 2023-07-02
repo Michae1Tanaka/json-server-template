@@ -1,0 +1,505 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Barbell Bench Press",
+      "muscleGroup": "Chest",
+      "weight": "150",
+      "reps": 8,
+      "sets": 3,
+      "duration": 45,
+      "image": "https://i.imgur.com/Fybe50U.png",
+      "musclesHit": {
+        "primary": [
+          "Pectoralis Major"
+        ],
+        "secondary": [
+          "Triceps",
+          "Anterior Deltoids"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Incline Dumbbell Press",
+      "muscleGroup": "Chest",
+      "weight": 80,
+      "reps": 8,
+      "sets": 3,
+      "duration": 40,
+      "image": "https://i.imgur.com/rd1wor5.png",
+      "musclesHit": {
+        "primary": [
+          "Upper Pectoralis Major"
+        ],
+        "secondary": [
+          "Triceps",
+          "Anterior Deltoids"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chest Fly Machine",
+      "muscleGroup": "Chest",
+      "weight": 100,
+      "reps": 12,
+      "sets": 3,
+      "duration": 30,
+      "image": "https://i.imgur.com/MoxI0Mh.png",
+      "musclesHit": {
+        "primary": [
+          "Pectoralis Major"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 4,
+      "name": "Barbell Curl",
+      "muscleGroup": "Bicep",
+      "weight": "50",
+      "reps": 10,
+      "sets": 3,
+      "duration": 25,
+      "image": "https://i.imgur.com/Ypt56QH.png",
+      "musclesHit": {
+        "primary": [
+          "Biceps Brachii"
+        ],
+        "secondary": [
+          "Brachialis",
+          "Brachioradialis"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hammer Curl",
+      "muscleGroup": "Bicep",
+      "weight": 35,
+      "reps": 10,
+      "sets": 3,
+      "duration": 25,
+      "image": "https://i.imgur.com/9RFeRgE.png",
+      "musclesHit": {
+        "primary": [
+          "Biceps Brachii",
+          "Brachialis"
+        ],
+        "secondary": [
+          "Brachioradialis"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Concentration Curl",
+      "muscleGroup": "Bicep",
+      "weight": 30,
+      "reps": 12,
+      "sets": 3,
+      "duration": 30,
+      "image": "https://i.imgur.com/Y8XELR1.png",
+      "musclesHit": {
+        "primary": [
+          "Biceps Brachii"
+        ],
+        "secondary": [
+          "Brachialis",
+          "Brachioradialis"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Tricep Pushdown",
+      "muscleGroup": "Tricep",
+      "weight": 50,
+      "reps": 12,
+      "sets": 3,
+      "duration": 20,
+      "image": "https://i.imgur.com/ynG3wls.png",
+      "musclesHit": {
+        "primary": [
+          "Triceps Brachii"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 8,
+      "name": "Overhead Tricep Extension",
+      "muscleGroup": "Tricep",
+      "weight": 30,
+      "reps": 12,
+      "sets": 3,
+      "duration": 20,
+      "image": "https://i.imgur.com/Jae8MMw.png",
+      "musclesHit": {
+        "primary": [
+          "Triceps Brachii"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 9,
+      "name": "Close-Grip Bench Press",
+      "muscleGroup": "Tricep",
+      "weight": 70,
+      "reps": 12,
+      "sets": 3,
+      "duration": 25,
+      "image": "https://i.imgur.com/Vt7CD5A.png",
+      "musclesHit": {
+        "primary": [
+          "Triceps Brachii"
+        ],
+        "secondary": [
+          "Chest",
+          "Shoulders"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "Deadlift",
+      "muscleGroup": "Back",
+      "weight": "225",
+      "reps": 8,
+      "sets": 3,
+      "duration": 60,
+      "image": "https://i.imgur.com/d1CCiPh.png",
+      "musclesHit": {
+        "primary": [
+          "Erector Spinae"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Glutes",
+          "Forearms"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "Barbell Row",
+      "muscleGroup": "Back",
+      "weight": 135,
+      "reps": 10,
+      "sets": 3,
+      "duration": 45,
+      "image": "https://i.imgur.com/ECcUxaA.png",
+      "musclesHit": {
+        "primary": [
+          "Latissimus Dorsi"
+        ],
+        "secondary": [
+          "Rhomboids",
+          "Trapezius"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "Lat Pulldown",
+      "muscleGroup": "Back",
+      "weight": 120,
+      "reps": 10,
+      "sets": 3,
+      "duration": 40,
+      "image": "https://i.imgur.com/cp3zkio.png",
+      "musclesHit": {
+        "primary": [
+          "Latissimus Dorsi"
+        ],
+        "secondary": [
+          "Brachialis",
+          "Brachioradialis"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "Overhead Press",
+      "muscleGroup": "Shoulder",
+      "weight": 50,
+      "reps": 12,
+      "sets": 3,
+      "duration": 20,
+      "image": "https://i.imgur.com/0Bw6UKo.png",
+      "musclesHit": {
+        "primary": [
+          "Deltoids"
+        ],
+        "secondary": [
+          "Triceps"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "Lateral Raises",
+      "muscleGroup": "Shoulder",
+      "weight": 20,
+      "reps": 15,
+      "sets": 3,
+      "duration": 15,
+      "image": "https://i.imgur.com/rv9lB1e.png",
+      "musclesHit": {
+        "primary": [
+          "Deltoids"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 15,
+      "name": "Front Raises",
+      "muscleGroup": "Shoulder",
+      "weight": 20,
+      "reps": 15,
+      "sets": 3,
+      "duration": 15,
+      "image": "https://i.imgur.com/FHB1r1L.png",
+      "musclesHit": {
+        "primary": [
+          "Deltoids"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 16,
+      "name": "Squat",
+      "muscleGroup": "Leg",
+      "weight": 225,
+      "reps": 10,
+      "sets": 3,
+      "duration": 60,
+      "image": "https://i.imgur.com/SBRipbP.png",
+      "musclesHit": {
+        "primary": [
+          "Quadriceps"
+        ],
+        "secondary": [
+          "Glutes",
+          "Hamstrings"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "name": "Leg Press",
+      "muscleGroup": "Leg",
+      "weight": 400,
+      "reps": 10,
+      "sets": 3,
+      "duration": 45,
+      "image": "https://i.imgur.com/ZtbbSM9.png",
+      "musclesHit": {
+        "primary": [
+          "Quadriceps"
+        ],
+        "secondary": [
+          "Glutes",
+          "Hamstrings"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "name": "Lunges",
+      "muscleGroup": "Leg",
+      "weight": 100,
+      "reps": 10,
+      "sets": 3,
+      "duration": 40,
+      "image": "https://i.imgur.com/lY2hZcn.png",
+      "musclesHit": {
+        "primary": [
+          "Quadriceps"
+        ],
+        "secondary": [
+          "Glutes",
+          "Hamstrings"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "name": "Wrist Curls",
+      "muscleGroup": "Forearm",
+      "weight": 20,
+      "reps": 15,
+      "sets": 3,
+      "duration": 15,
+      "image": "https://i.imgur.com/XkUhbCq.png",
+      "musclesHit": {
+        "primary": [
+          "Flexor Carpi Radialis",
+          "Palmaris Longus",
+          "Flexor Carpi Ulnaris",
+          "Flexor Digitorum Superficialis"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 20,
+      "name": "Reverse Wrist Curls",
+      "muscleGroup": "Forearm",
+      "weight": 15,
+      "reps": 15,
+      "sets": 3,
+      "duration": 15,
+      "image": "https://i.imgur.com/44O80rj.png",
+      "musclesHit": {
+        "primary": [
+          "Extensor Carpi Radialis Longus",
+          "Extensor Carpi Radialis Brevis",
+          "Extensor Digitorum",
+          "Extensor Carpi Ulnaris"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 21,
+      "name": "Hammer Curls",
+      "muscleGroup": "Forearm",
+      "weight": 30,
+      "reps": 12,
+      "sets": 3,
+      "duration": 20,
+      "image": "https://i.imgur.com/9RFeRgE.png",
+      "musclesHit": {
+        "primary": [
+          "Brachioradialis"
+        ],
+        "secondary": [
+          "Biceps Brachii"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "name": "Cable Crunch",
+      "muscleGroup": "Core",
+      "weight": 50,
+      "reps": 12,
+      "sets": 3,
+      "duration": 15,
+      "image": "https://i.imgur.com/mZ4JDuN.png",
+      "musclesHit": {
+        "primary": [
+          "Rectus Abdominis"
+        ],
+        "secondary": [
+          "Obliques"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "name": "Weighted Machine Crunch",
+      "muscleGroup": "Core",
+      "weight": 70,
+      "reps": 12,
+      "sets": 3,
+      "duration": 15,
+      "image": "https://i.imgur.com/0p2XQxK.png",
+      "musclesHit": {
+        "primary": [
+          "Rectus Abdominis"
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "id": 24,
+      "name": "Seated Ab Rotation Machine",
+      "muscleGroup": "Core",
+      "weight": 50,
+      "reps": 15,
+      "sets": 3,
+      "duration": 15,
+      "image": "https://i.imgur.com/oJLuyqV.png",
+      "musclesHit": {
+        "primary": [
+          "Obliques"
+        ],
+        "secondary": [
+          "Rectus Abdominis"
+        ]
+      }
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1,
+      "muscleGroup": "Chest",
+      "currentWorkoutVolume": 9120,
+      "lastWorkoutVolume": 8500,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    },
+    {
+      "id": 2,
+      "muscleGroup": "Bicep",
+      "currentWorkoutVolume": 3630,
+      "lastWorkoutVolume": 3800,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    },
+    {
+      "id": 3,
+      "muscleGroup": "Tricep",
+      "currentWorkoutVolume": 5400,
+      "lastWorkoutVolume": 7200,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    },
+    {
+      "id": 4,
+      "muscleGroup": "Back",
+      "currentWorkoutVolume": 13050,
+      "lastWorkoutVolume": 13000,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    },
+    {
+      "id": 5,
+      "muscleGroup": "Shoulder",
+      "currentWorkoutVolume": 3600,
+      "lastWorkoutVolume": 2500,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    },
+    {
+      "id": 6,
+      "muscleGroup": "Leg",
+      "currentWorkoutVolume": 21750,
+      "lastWorkoutVolume": 20000,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    },
+    {
+      "id": 7,
+      "muscleGroup": "Forearms",
+      "currentWorkoutVolume": 2655,
+      "lastWorkoutVolume": 1800,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    },
+    {
+      "id": 8,
+      "muscleGroup": "Core",
+      "currentWorkoutVolume": 6570,
+      "lastWorkoutVolume": 7020,
+      "currentDate": "06/30/2023",
+      "previousDate": "06/27/2023"
+    }
+  ]
+}
